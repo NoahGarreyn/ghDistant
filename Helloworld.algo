@@ -1,3 +1,5 @@
 ﻿Créer un label avec du texte centré et contenant le texte HELLO_WORLD // modifié sur GitHub et localement
 Créer la couleur cyan
 Mettre la couleur cyan sur le label
+Créer un label avec du texte centré contenant le texte "HELLO_WORLD - <date du jour>"
+Mettre la dimension à 300, 300
